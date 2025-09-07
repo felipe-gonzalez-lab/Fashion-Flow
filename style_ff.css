@@ -1,0 +1,26 @@
+body {background-color: white;
+    color: black
+}
+
+.header_promo {
+    background-color: yellow;
+    padding: 2px;
+    text-align: center;
+    border: 200px black;
+}
+
+.header {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: left;
+}
+
+.cuadro_ppl {
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 100px;
+    border: 2px black;  
+}
+
